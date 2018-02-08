@@ -46,3 +46,9 @@ When variables are set run:
 ```
 gulp serve
 ```
+
+##Credits This repo is heavily inspired by this [repo](https://github.com/tadejstanic/wp-hrm-webpack) Thank you @tadejstanic
+
+
+
+
